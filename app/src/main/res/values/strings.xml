@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KannSyndrome</string>
+    <string name="headacheLabel">¿Le duele la cabeza?</string>
+    <string name="ageLabel">¿Cuál es su edad?</string>
+    <string name="genderLabel">¿Cuál es su género?</string>
+    <string name="alcoholLabel">¿Consume alcohol de manera regular?</string>
+    <string name="resultLabel">Su probabilidad de tener Síndrome de Kann es de:</string>
+    <string name="btEvaluate">Evaluar</string>
+    <string name="bad_age">Este campo debe ser un número</string>
+
+    <string-array name="yes_not_array">
+        <item>NO</item>
+        <item>SÍ</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>FEMENINO</item>
+        <item>MASCULINO</item>
+    </string-array>
+
+</resources>
